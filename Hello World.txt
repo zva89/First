@@ -1,2 +1,5 @@
-Print (“Hello World!!”);Print (“Hello world”);Print (“Hello everybody”);Print (“Hello”);print ("Hello my dear friend");
-print ("Glad to see you")
+Print ("Hello world;");
+Print ("Hello everybody;");
+Print ("Hello;");
+print ("Hello my dear friend;");
+print ("Glad to see you;")
