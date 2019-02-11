@@ -1,0 +1,1 @@
+Print (ÒGoodbye World!!Ó);Print (Ò9Ó);Print (Ò8Ó);Print (Ò7Ó);Print (Ò6Ó);
