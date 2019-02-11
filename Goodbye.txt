@@ -1,0 +1,1 @@
+Print (ÒGoodbye World!!Ó);
