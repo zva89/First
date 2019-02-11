@@ -1,1 +1,1 @@
-Print (ÒHello World!!Ó);Print (Ò1Ó);Print (Ò2Ó);Print (Ò3Ó);Print (Ò4Ó);Print (Ò5Ó);
+Print (ÒHello World!!Ó);Print (Ò1Ó);Print (Ò2Ó);Print (Ò3Ó);Print (Ò4Ó);Print (Ò5Ó);print ("Hello my dear friend");
