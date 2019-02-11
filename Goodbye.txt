@@ -1,1 +1,1 @@
-Print (ÒGoodbye World!!Ó);
+Print (ÒGoodbye World!!Ó);Print (Ò2 2 2 2 22  World!!Ó);
