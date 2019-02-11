@@ -1,1 +1,1 @@
-Print (ÒHello World!!Ó);
+Print (ÒHello World!!Ó);Print (ÒHello EVERBODY!!Ó);
